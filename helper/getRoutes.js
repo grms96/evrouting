@@ -18,4 +18,3 @@ const getRoutes = (req, googleMaps) => {
 };
 
 module.exports = getRoutes;
-
